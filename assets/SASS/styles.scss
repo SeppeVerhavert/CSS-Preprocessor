@@ -1,8 +1,7 @@
 .foo {
-    background: orange;
-    p {
-      color: blue;
-      font-size: 14px;
-      font-weight: bold;
+    font: {
+      family: arial;
+      weight: bold;
+      size: 2em;
     }
   }
