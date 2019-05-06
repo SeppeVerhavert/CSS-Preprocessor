@@ -21,7 +21,7 @@ Learning to use CSS preprocessors
     
     
     Stylus
-      - Stylus has an extremely terse syntax.
+      - Stylus has an extremely clean syntax.
       - Not only does Stylus support all the features from Less and Sass, it provides features not found anywhere else.
       - One of Stylus' distinguishing features is transparent mixins: reusuable, possibly dynamic styles that look exactly 
         like native CSS properties. 
