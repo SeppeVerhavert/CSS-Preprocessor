@@ -1,7 +1,8 @@
-/* 
-This is the primary HTML style
-*/
-html {
-  font-size: 0.75em; }
+.foo {
+  background: orange; }
+  .foo p {
+    color: blue;
+    font-size: 14px;
+    font-weight: bold; }
 
 /*# sourceMappingURL=styles.css.map */
